@@ -10,5 +10,4 @@ def insertion_sort(unsorted_arr):
 
 
 test_arr = [4, 3, 7, 193, 1, 6, 2]
-
 print(insertion_sort(test_arr))
