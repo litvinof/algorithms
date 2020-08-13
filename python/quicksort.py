@@ -1,5 +1,5 @@
 # Worst case: O(n^2)
-# Average case: O(log(n))
+# Average case: O(nlogn)
 
 
 def quick_sort(arr):
